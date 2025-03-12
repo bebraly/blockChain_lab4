@@ -2,7 +2,7 @@
 
 import requests
 
-API_KEY = 'dgS3hBL4R3wc2ff1Gg0X2GsIUH5Gtw3wN33PYSTz25WVvUsO7mnuplZ0BSYs6uAFx3nZtnVzLWy4JgzMIcntVX'
+API_KEY = ''
 BASE_URL = "https://api.ataix.kz"
 
 
